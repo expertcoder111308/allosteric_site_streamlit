@@ -8,7 +8,7 @@ keras==3.0.1
 
 # Data Manipulation and Analysis
 pandas==1.4.0
-numpy==1.22.1
+numpy==1.19.5
 
 # Data Visualization
 matplotlib==3.5.1
