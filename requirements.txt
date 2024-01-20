@@ -1,7 +1,7 @@
 # requirements.txt
 
 # Machine Learning Libraries
-scikit-learn==1.11.0
+scikit-learn==1.4.0
 imbalanced-learn==0.11.0
 tensorflow==2.9.1
 keras==3.0.3
