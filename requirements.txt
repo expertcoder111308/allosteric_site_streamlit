@@ -19,5 +19,5 @@ streamlit==1.30.0
 pyngrok==5.1.0
 
 # Miscellaneous
-joblib==1.0.1
+joblib==1.2.0
 gdown==4.2.1
