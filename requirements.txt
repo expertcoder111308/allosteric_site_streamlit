@@ -4,4 +4,4 @@ pandas==1.4.3
 numpy==1.23.1
 matplotlib==3.5.2
 tensorflow==2.9.1
-
+pickle==0.0.12
