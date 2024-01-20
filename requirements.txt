@@ -4,7 +4,7 @@
 scikit-learn==1.4.0
 imbalanced-learn==0.9.1
 tensorflow==2.7.0
-keras==2.8.0
+keras==3.0.1
 
 # Data Manipulation and Analysis
 pandas==1.4.0
