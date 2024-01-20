@@ -3,7 +3,6 @@ from joblib import load
 
 # Imports the functions we coded above
 from header import *
-from userinput import *
 from response import *
 from predictor import *
 
