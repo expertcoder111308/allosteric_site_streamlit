@@ -3,7 +3,7 @@
 # Machine Learning Libraries
 scikit-learn==1.4.0
 imbalanced-learn==0.9.1
-tensorflow==2.7.0
+tensorflow==2.15.0
 keras==3.0.1
 
 # Data Manipulation and Analysis
